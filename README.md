@@ -184,5 +184,5 @@ Run all cells.
 ---
 
 ## 👤 Author
-= Rohit Bollapragada
+- Rohit Bollapragada
 - GitHub: https://github.com/rohitb281
